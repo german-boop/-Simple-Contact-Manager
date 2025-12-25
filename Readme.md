@@ -25,12 +25,11 @@ Click below to **run the script interactively** in Colab:
 
 ## 🛠 How to Use
 
-### 1️⃣ Run Locally
+###  Run Locally
 
 ```bash
 
-
-2️⃣ Run in Colab (Interactive)
+🚀 Run in Colab (Interactive)
 
 !python main.py
 
@@ -38,7 +37,7 @@ Enter contact details in the cell prompt
 
 Download your contacts file:
 
-Python code
+🚀 Run in Colab (Interactive)
 
 from google.colab import files
 files.download('contacts.txt')
@@ -61,7 +60,7 @@ contact-manager/
 Apache-02 license.
 
 👤 Author:
-Premier848- Github: https://github.com/german-boop/-Simple-Contact-Manager/edit/main/Readme.md
+Premier848
 
 
 
