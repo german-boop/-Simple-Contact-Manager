@@ -55,8 +55,9 @@ Interactive demo showing the process of adding contacts in action.
 contact-manager/
 │
 ├── main.py
-├── contacts.txt        # (optional / generated)
+├── CODE_REVIEW.md   ✅
 ├── README.md
+├── contacts.txt
 └── .gitignore
 
 📝 License
