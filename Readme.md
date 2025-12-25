@@ -29,16 +29,22 @@ Click below to **run the script interactively** in Colab:
 
 ```bash
 
-python main.py
+# python main.py
 
-You can enter contact details in the cell prompt.
+# You can enter contact details in the cell prompt:
 
-Download your contacts file:
+def add_contact(filename="contacts.txt"):
+    """
+    Prompt the user to enter a contact name and phone number,
+    then save it to 'contacts.txt'.
 
-🚀 Run in Colab (Interactive)
+    This function opens 'contacts.txt' in append mode, writes
+    the contact in the format 'name - phone', and prints a
+    confirmation message.
 
-from google.colab import files
-files.download('contacts.txt')
+    Args:
+        filename (str): Name of the file to save contacts to.
+    """
 
 🎬 Animated Preview
 
