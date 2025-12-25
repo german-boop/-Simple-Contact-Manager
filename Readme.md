@@ -45,14 +45,14 @@ Enter contact details in the cell prompt
 
 Download your contacts file:
 
-pyrhon code
+Python code
 
 from google.colab import files
 files.download('contacts.txt')
 
 🎬 Animated Preview
 
-Interactive demo showing adding contacts in action.
+Interactive demo showing the process of adding contacts in action.
 
 📁 File Structure
 
@@ -65,8 +65,8 @@ simple-contact-manager/
 
 Apache-02 license.
 
-👤 Author
-[Premier848] - GitHub: 
+👤 Author:
+Premier848- Github: https://github.com/german-boop/-Simple-Contact-Manager/edit/main/Readme.md
 
 
 
