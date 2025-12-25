@@ -29,11 +29,9 @@ Click below to **run the script interactively** in Colab:
 
 ```bash
 
-🚀 Run in Colab (Interactive)
+python main.py
 
-!python main.py
-
-Enter contact details in the cell prompt
+You can enter contact details in the cell prompt.
 
 Download your contacts file:
 
