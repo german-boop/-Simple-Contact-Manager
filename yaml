@@ -1,0 +1,10 @@
+# Simple Contact Manager
+A lightweight, interactive Python script to manage your contacts by storing names and phone numbers in a text file.  Designed to be beginner-friendly, with animated instructions and interactive buttons for Google Colab.
+
+---
+
+✅ This version is **interactive, animated, and visually appealing**:  
+- Uses **GIF demo** to show functionality  
+- Includes **Colab launch button** for direct execution  
+- Badges and emojis make it **fun and engaging**  
+- Clear structure for **beginners and GitHub users**  
