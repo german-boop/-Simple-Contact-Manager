@@ -29,13 +29,6 @@ Click below to **run the script interactively** in Colab:
 
 ```bash
 
-python main.py
-
-Enter contact name and phone number
-
-The contact is saved automatically to contacts.txt
-
-✅ Success message confirms it
 
 2️⃣ Run in Colab (Interactive)
 
@@ -56,10 +49,12 @@ Interactive demo showing the process of adding contacts in action.
 
 📁 File Structure
 
-simple-contact-manager/
+contact-manager/
 │
-├── main.py          # Python script for adding contacts
-└── contacts.txt     # Auto-generated text file storing contacts
+├── main.py
+├── contacts.txt        # (optional / generated)
+├── README.md
+└── .gitignore
 
 📝 License
 
